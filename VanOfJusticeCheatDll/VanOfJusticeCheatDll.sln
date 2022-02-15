@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanOfJusticeCheatDll", "VanOfJusticeCheatDll\VanOfJusticeCheatDll.csproj", "{5461696A-EBF5-47C8-BCC7-C8B6A42318BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5461696A-EBF5-47C8-BCC7-C8B6A42318BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5461696A-EBF5-47C8-BCC7-C8B6A42318BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5461696A-EBF5-47C8-BCC7-C8B6A42318BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5461696A-EBF5-47C8-BCC7-C8B6A42318BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B34A201-280B-4107-97B7-640B911826D4}
+	EndGlobalSection
+EndGlobal

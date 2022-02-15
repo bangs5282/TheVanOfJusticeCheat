@@ -1,0 +1,9 @@
+C:\Users\nfe81\source\repos\VanOfJusticeCheatDll\VanOfJusticeCheatDll\bin\Debug\VanOfJusticeCheatDll.dll
+C:\Users\nfe81\source\repos\VanOfJusticeCheatDll\VanOfJusticeCheatDll\bin\Debug\VanOfJusticeCheatDll.pdb
+C:\Users\nfe81\source\repos\VanOfJusticeCheatDll\VanOfJusticeCheatDll\bin\Debug\UnityEngine.dll
+C:\Users\nfe81\source\repos\VanOfJusticeCheatDll\VanOfJusticeCheatDll\bin\Debug\UnityEngine.xml
+C:\Users\nfe81\source\repos\VanOfJusticeCheatDll\VanOfJusticeCheatDll\obj\Debug\VanOfJusticeCheatDll.csproj.AssemblyReference.cache
+C:\Users\nfe81\source\repos\VanOfJusticeCheatDll\VanOfJusticeCheatDll\obj\Debug\VanOfJusticeCheatDll.csproj.CoreCompileInputs.cache
+C:\Users\nfe81\source\repos\VanOfJusticeCheatDll\VanOfJusticeCheatDll\obj\Debug\VanOfJusticeCheatDll.csproj.CopyComplete
+C:\Users\nfe81\source\repos\VanOfJusticeCheatDll\VanOfJusticeCheatDll\obj\Debug\VanOfJusticeCheatDll.dll
+C:\Users\nfe81\source\repos\VanOfJusticeCheatDll\VanOfJusticeCheatDll\obj\Debug\VanOfJusticeCheatDll.pdb
