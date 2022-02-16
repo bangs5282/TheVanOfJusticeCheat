@@ -1,4 +1,4 @@
-# TheVanOfJusticeCheat
+# TheVanOfJustice Trainer
 
 injector is based on sharpmonoinjector
 https://github.com/warbler/SharpMonoInjector
